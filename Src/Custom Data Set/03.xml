@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M4 IMAGES</folder>
+	<filename>03.jpg</filename>
+	<path>D:\PRJ2\RealTimeObjectDetection\Tensorflow\workspace\images\M4 IMAGES\03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m4_carbine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>70</ymin>
+			<xmax>372</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

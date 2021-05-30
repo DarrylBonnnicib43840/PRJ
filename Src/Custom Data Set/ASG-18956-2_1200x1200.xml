@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BLE IMAGES</folder>
+	<filename>ASG-18956-2_1200x1200.jpg</filename>
+	<path>D:\PRJ2\RealTimeObjectDetection\Tensorflow\workspace\images\BLE IMAGES\ASG-18956-2_1200x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>619</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asg_ics_ble_xae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>32</ymin>
+			<xmax>590</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

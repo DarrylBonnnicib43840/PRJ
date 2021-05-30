@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M4 IMAGES</folder>
+	<filename>specna-arms-sa-c10-pdw-core-rifle_0001_img_1529 copy.jpg</filename>
+	<path>D:\PRJ2\RealTimeObjectDetection\Tensorflow\workspace\images\M4 IMAGES\specna-arms-sa-c10-pdw-core-rifle_0001_img_1529 copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m4_carbine</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>764</ymin>
+			<xmax>1920</xmax>
+			<ymax>2159</ymax>
+		</bndbox>
+	</object>
+</annotation>

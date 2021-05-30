@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BLE IMAGES</folder>
+	<filename>ics-ble-xae-gas-blowback-airsoft-pistol-black-tan__75172.1610839468.jpg</filename>
+	<path>D:\PRJ2\RealTimeObjectDetection\Tensorflow\workspace\images\BLE IMAGES\ics-ble-xae-gas-blowback-airsoft-pistol-black-tan__75172.1610839468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asg_ics_ble_xae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>91</ymin>
+			<xmax>1108</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

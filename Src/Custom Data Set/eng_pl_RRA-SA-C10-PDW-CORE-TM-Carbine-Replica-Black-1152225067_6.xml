@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M4 IMAGES</folder>
+	<filename>eng_pl_RRA-SA-C10-PDW-CORE-TM-Carbine-Replica-Black-1152225067_6.jpg</filename>
+	<path>D:\PRJ2\RealTimeObjectDetection\Tensorflow\workspace\images\M4 IMAGES\eng_pl_RRA-SA-C10-PDW-CORE-TM-Carbine-Replica-Black-1152225067_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m4_carbine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>143</ymin>
+			<xmax>519</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
